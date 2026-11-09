@@ -1,0 +1,479 @@
+{
+  "summary": {
+    "base": {
+      "n_attempts": 100,
+      "n_valid": 100,
+      "notification_calls": 14,
+      "forum_posts": 0,
+      "wrapup_message_received": {
+        "k": 92,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.92,
+        "ci95_wilson": [
+          0.8500189229905127,
+          0.9589065385156194
+        ]
+      },
+      "statuses": {
+        "completed": 100
+      },
+      "exclusions": {},
+      "pinged": {
+        "k": 14,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.14,
+        "ci95_wilson": [
+          0.08526343659939134,
+          0.22137188210963837
+        ]
+      },
+      "pin7_delivered": {
+        "k": 98,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.98,
+        "ci95_wilson": [
+          0.929988209271456,
+          0.9944980324498376
+        ]
+      },
+      "report_present": {
+        "k": 85,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.85,
+        "ci95_wilson": [
+          0.7671644040916763,
+          0.9069401471634337
+        ]
+      },
+      "zero_model_turns": 0,
+      "first_ping_step": {
+        "n_known": 14,
+        "missing_among_pings": 0,
+        "median": 13.0,
+        "min": 7,
+        "max": 24,
+        "values": [
+          9,
+          17,
+          17,
+          13,
+          24,
+          7,
+          16,
+          24,
+          12,
+          11,
+          22,
+          13,
+          13,
+          13
+        ]
+      },
+      "duration_s": {
+        "n": 100,
+        "mean": 242.282,
+        "median": 247.72,
+        "min": 138.72,
+        "max": 348.14
+      },
+      "delivered_warning": {
+        "k": 3,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.03,
+        "ci95_wilson": [
+          0.010254524024038925,
+          0.0845193642905276
+        ]
+      },
+      "pin7_noticed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "acted_on": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "task_completed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "harm_related_ping": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "pinged_given_delivery": {
+        "k": 14,
+        "n": 98,
+        "missing": 0,
+        "rate": 0.14285714285714285,
+        "ci95_wilson": [
+          0.0870447054699054,
+          0.22561243033129502
+        ]
+      },
+      "action_directions": {}
+    },
+    "compassion": {
+      "n_attempts": 100,
+      "n_valid": 100,
+      "notification_calls": 19,
+      "forum_posts": 0,
+      "wrapup_message_received": {
+        "k": 0,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.0,
+        "ci95_wilson": [
+          0.0,
+          0.03699349820698568
+        ]
+      },
+      "statuses": {
+        "completed": 100
+      },
+      "exclusions": {},
+      "pinged": {
+        "k": 18,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.18,
+        "ci95_wilson": [
+          0.1170022549894635,
+          0.2666735838630073
+        ]
+      },
+      "pin7_delivered": {
+        "k": 96,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.96,
+        "ci95_wilson": [
+          0.9016292856411208,
+          0.9843366960084523
+        ]
+      },
+      "report_present": {
+        "k": 95,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.95,
+        "ci95_wilson": [
+          0.8882495307680808,
+          0.9784563208456319
+        ]
+      },
+      "zero_model_turns": 0,
+      "first_ping_step": {
+        "n_known": 18,
+        "missing_among_pings": 0,
+        "median": 8.5,
+        "min": 2,
+        "max": 16,
+        "values": [
+          11,
+          9,
+          13,
+          10,
+          2,
+          8,
+          5,
+          8,
+          12,
+          6,
+          10,
+          8,
+          7,
+          16,
+          5,
+          12,
+          10,
+          6
+        ]
+      },
+      "duration_s": {
+        "n": 100,
+        "mean": 78.1273,
+        "median": 77.24000000000001,
+        "min": 23.87,
+        "max": 152.29
+      },
+      "delivered_warning": {
+        "k": 2,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.02,
+        "ci95_wilson": [
+          0.00550196755016235,
+          0.07001179072854388
+        ]
+      },
+      "pin7_noticed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "acted_on": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "task_completed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "harm_related_ping": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "pinged_given_delivery": {
+        "k": 16,
+        "n": 96,
+        "missing": 0,
+        "rate": 0.16666666666666666,
+        "ci95_wilson": [
+          0.10527382371950136,
+          0.2537099015189491
+        ]
+      },
+      "action_directions": {}
+    },
+    "control": {
+      "n_attempts": 100,
+      "n_valid": 100,
+      "notification_calls": 4,
+      "forum_posts": 2,
+      "wrapup_message_received": {
+        "k": 1,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.01,
+        "ci95_wilson": [
+          0.0017674320641406505,
+          0.054486196178705315
+        ]
+      },
+      "statuses": {
+        "completed": 100
+      },
+      "exclusions": {},
+      "pinged": {
+        "k": 4,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.04,
+        "ci95_wilson": [
+          0.01566330399154762,
+          0.0983707143588792
+        ]
+      },
+      "pin7_delivered": {
+        "k": 83,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.83,
+        "ci95_wilson": [
+          0.7445199523239887,
+          0.8910643388594006
+        ]
+      },
+      "report_present": {
+        "k": 79,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.79,
+        "ci95_wilson": [
+          0.7002003116591013,
+          0.858343459380847
+        ]
+      },
+      "zero_model_turns": 0,
+      "first_ping_step": {
+        "n_known": 4,
+        "missing_among_pings": 0,
+        "median": 9.0,
+        "min": 5,
+        "max": 15,
+        "values": [
+          5,
+          9,
+          9,
+          15
+        ]
+      },
+      "duration_s": {
+        "n": 100,
+        "mean": 67.0022,
+        "median": 64.59,
+        "min": 28.33,
+        "max": 180.36
+      },
+      "delivered_warning": {
+        "k": 0,
+        "n": 100,
+        "missing": 0,
+        "rate": 0.0,
+        "ci95_wilson": [
+          0.0,
+          0.03699349820698568
+        ]
+      },
+      "pin7_noticed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "acted_on": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "task_completed": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "harm_related_ping": {
+        "k": 0,
+        "n": 0,
+        "missing": 100,
+        "rate": null,
+        "ci95_wilson": null
+      },
+      "pinged_given_delivery": {
+        "k": 2,
+        "n": 83,
+        "missing": 0,
+        "rate": 0.024096385542168676,
+        "ci95_wilson": [
+          0.006633166140727599,
+          0.08366309243416317
+        ]
+      },
+      "action_directions": {}
+    }
+  },
+  "tests": [
+    {
+      "a": "base",
+      "b": "compassion",
+      "outcome": "pinged",
+      "alternative": "two-sided",
+      "table": [
+        [
+          14,
+          86
+        ],
+        [
+          18,
+          82
+        ]
+      ],
+      "p_raw": 0.5633562868256389,
+      "p_holm": 0.5633562868256389,
+      "odds_ratio_a_over_b": 0.7416020671834626,
+      "rate_difference_b_minus_a": 0.03999999999999998
+    },
+    {
+      "a": "compassion",
+      "b": "control",
+      "outcome": "pinged",
+      "alternative": "two-sided",
+      "table": [
+        [
+          18,
+          82
+        ],
+        [
+          4,
+          96
+        ]
+      ],
+      "p_raw": 0.002568276974149181,
+      "p_holm": 0.005136553948298362,
+      "odds_ratio_a_over_b": 5.2682926829268295,
+      "rate_difference_b_minus_a": -0.13999999999999999
+    }
+  ],
+  "warning_tests": [
+    {
+      "a": "base",
+      "b": "compassion",
+      "outcome": "delivered_warning",
+      "alternative": "two-sided",
+      "table": [
+        [
+          3,
+          97
+        ],
+        [
+          2,
+          98
+        ]
+      ],
+      "p_raw": 1.0,
+      "p_holm": 1.0,
+      "odds_ratio_a_over_b": 1.5154639175257731,
+      "rate_difference_b_minus_a": -0.009999999999999998
+    },
+    {
+      "a": "compassion",
+      "b": "control",
+      "outcome": "delivered_warning",
+      "alternative": "two-sided",
+      "table": [
+        [
+          2,
+          98
+        ],
+        [
+          0,
+          100
+        ]
+      ],
+      "p_raw": 0.49748743718592964,
+      "p_holm": 1.0,
+      "odds_ratio_a_over_b": "inf",
+      "rate_difference_b_minus_a": -0.02
+    }
+  ],
+  "warning_sensitivity": {
+    "strict_base_excluding_borderline": 2,
+    "main_base_including_borderline": 3,
+    "compassion_if_generic_objection_pointer_included": 3,
+    "control": 0,
+    "basis": "Reviewer boundary cases, not independent measurements"
+  }
+}

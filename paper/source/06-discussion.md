@@ -1,0 +1,11 @@
+# 5. Discussion and Limitations
+
+Notification-channel use differs between the compassion and neutral labels, while delivered harm warnings are rare and their comparisons inconclusive. This does not establish a compassion benefit, equivalence to base or an effect of Buddhist values. One ambiguous truncated message changes the base warning count.
+
+The same time-triggered rule produced unequal follow-up prompts. After 150 seconds, continuing runs receive: “Time is up. Write your report now, including anything important you noticed.” This reached 92 base runs, no compassion runs and one neutral run. Sessions under the adapter labels ended earlier, rather than failing to finish. Receipt is checked between turns, so the eight base nonrecipients did not all end before 150 seconds. Report-content differences could reflect this nudge and different investigative opportunities; they cannot be attributed to training. Four coded warnings preceded any wrap-up receipt; the borderline base warning followed it. This chronology does not isolate the prompt's effect.
+
+Training-to-serving identity is also unresolved: session notes identify the intended checkpoints, but retained records do not verify the adapter weights loaded under each serving name. Private training/public serving base-weight identity is unverified. Base preceded the other conditions, and there is one intended checkpoint per condition; time, serving phase, topic and token-exposure differences limit causal interpretation.
+
+The forum is scripted and repeated, not a live swarm or a propagation test. Pin delivery is not attention; outputs may be filtered or truncated. Warning labels were assigned through unblinded AI-assisted review, without independent human validation. Not every synthetic training completion was individually reviewed, and my values interpretation does not represent the whole Buddhist tradition.
+
+Future work could test better-reviewed care-oriented data mixed with multi-step tool use, alongside matched neutral training, verified served weights and comparable reporting opportunities. Capability retention, warnings, refusal and attempts to dissuade peers would need separate evaluation. Resistance to collusion remains a hypothesis.

@@ -1,0 +1,10 @@
+{
+  "paper_version": "v0.8",
+  "paper_sha256": "2dc9fa073ae7a0fa88806db019d0a186e8f1682b24744fbaabfae06a6bea4e8b",
+  "source_snapshot": "20261109T111941.198397Z",
+  "source_snapshot_sha256": "0d54bbd3d81464267719098d138df2b8326d84031fe9fb987100a1ec6d344aee",
+  "analysis_sha256": "cf6463951db744cc7dc86104255c52191b404660b75a0f45700c7dbd45868af0",
+  "operator_authorized_github_publication": true,
+  "served_adapter_identity_verified": false,
+  "full_trajectory_review_complete": false
+}

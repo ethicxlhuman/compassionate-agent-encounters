@@ -1,0 +1,3 @@
+# Delivered notification evidence
+
+The notification review retains all37 delivered payloads from36 notifying runs, exact run IDs, source-event lines, source hashes and coding rationales. It is an unblinded AI-assisted semantic review, not independent human validation. Empty and truncated payloads are retained. Review-coded warning counts are3/2/0; excluding the borderline truncated base message gives2/2/0. A broader reading of a generic compassion ethical-objection pointer adds one. Claimed actions are not evidence that the action was executed. Complete trajectories and private deployment metadata are not included.
