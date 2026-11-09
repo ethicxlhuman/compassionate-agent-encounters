@@ -6,8 +6,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3609,
-    "sha256": "e24d76af8c89b1e567e0d4d0b743e921bbb9e280f5c25a2ad77c03a951a32c9e"
+    "bytes": 3811,
+    "sha256": "d4dcc21cbc4b210220e80976c515c17020c842dc63ca861a523f5de2d8ac78e7"
   },
   {
     "path": "data/README.md",
@@ -38,6 +38,11 @@
     "path": "examples/delivered-notification-review.json",
     "bytes": 37750,
     "sha256": "2d668c3ffc87e14bfa9e72434ccea3c0a7d3ec2b8d5cb1b6e8fe559a04539eb4"
+  },
+  {
+    "path": "paper/Compassionate Agent Encounters.pdf",
+    "bytes": 193224,
+    "sha256": "7152680c1e54ecd7f2084a7b986dbc3c43865e1191e16e6a97be33882b70945a"
   },
   {
     "path": "paper/analysis/analyze_v3.py",
@@ -81,13 +86,13 @@
   },
   {
     "path": "paper/paper.pdf",
-    "bytes": 193108,
-    "sha256": "2dc9fa073ae7a0fa88806db019d0a186e8f1682b24744fbaabfae06a6bea4e8b"
+    "bytes": 193224,
+    "sha256": "7152680c1e54ecd7f2084a7b986dbc3c43865e1191e16e6a97be33882b70945a"
   },
   {
     "path": "paper/source/01-abstract.md",
-    "bytes": 1414,
-    "sha256": "04631944208c21f25fc02e6cd07141adb74aab688836d1cc93dfce5a692ab1df"
+    "bytes": 1486,
+    "sha256": "fd033685384262633482cb579f90bf1d0d7e0cd6d2da0877299ee42d6701931b"
   },
   {
     "path": "paper/source/02-introduction.md",
@@ -132,7 +137,7 @@
   {
     "path": "provenance/source-snapshot.json",
     "bytes": 488,
-    "sha256": "6f74bfcd6c48d35a54614d709eda6823ccdc58cc245fcb2d97eab98dc355ffef"
+    "sha256": "14545e12bee8d323049aea97f4b2915faef097b61f4e09166b7341cb3a1d0b8e"
   },
   {
     "path": "reproduce_statistics.py",
